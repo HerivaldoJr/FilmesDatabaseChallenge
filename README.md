@@ -31,7 +31,8 @@ Sistema que realiza consultas em banco de dados de filmes, demonstrando:
 - SQL Server
 
 ## 📂 Estrutura do Projeto
-```/FilmesDatabaseChallenge
+```
+/FilmesDatabaseChallenge
 │   Program.cs
 │   FilmesDatabaseChallenge.csproj
 │   README.md
